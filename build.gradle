@@ -2,7 +2,7 @@ plugins {
     id 'maven-publish'
 }
 
-group 'cz.orany'
+group 'com.mani'
 version getTagOrDefault('1.0.0-SNAPSHOT')
 
 
